@@ -1,7 +1,6 @@
 ## Hello World! I'm Juan Pablo!
 
 - Back-end enthusiast, venturing into front-end, and student of Internet Systems
-- My current focus is Java and Python, but I'm also studying Javascript and I'm starting on AWS.
 
 <div align="center">
   <a href="https://github.com/pablobdss">
