@@ -1,6 +1,7 @@
 ## Hello World! I'm Juan Pablo!
 
 - Back-end enthusiast, venturing into front-end, and student of Internet Systems
+- I’m currently learning Go
 
 <div align="center">
   <a href="https://github.com/pablobdss">
