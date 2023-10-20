@@ -9,19 +9,24 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobdss&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline-block">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align="center" alt="JavascriptIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></a> 
+    <img align="center" alt="JavascriptIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+  </a> 
     
   <a href="https://www.oracle.com/java/" target="_blank">
-    <img align="center" alt="JavaIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg"></a> 
+    <img align="center" alt="JavaIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
+  </a> 
   
   <a href="https://www.python.org" target="_blank">
-    <img align="center" alt="PythonIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></a>
+    <img align="center" alt="PythonIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+  </a>
 
   <a href="https://go.dev" target="_blank">
-    <img align="center" alt="GoLangIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg"></a>
+    <img align="center" alt="GoLangIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg">
+  </a>
 </div>
+
   
 ##
   
