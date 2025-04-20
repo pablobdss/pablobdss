@@ -34,7 +34,6 @@ I build projects through weekly sprints, detailed technical documentation, and a
 ---
 
 ## 📫 Let’s Connect
-- 🔗 [Indeed]()
 - 🔗 [LinkedIn](https://www.linkedin.com/in/juan-pablo-5134a5189/)  
 - 💻 [GitHub](https://github.com/pablobdss)  
 - ✉️ juanpablox2002@gmail.com  
