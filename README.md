@@ -1,33 +1,40 @@
-## Hello World! I'm Juan Pablo!
+# 👋 Hi, I’m Juan Pablo
 
-- Back-end enthusiast, venturing into front-end, and student of Internet Systems
-- I’m currently learning Go
+**Backend Developer** specializing in **Golang**, with hands‑on experience in **Node.js**, **React**, and end‑to‑end containerized deployments.  
+I build projects through weekly sprints, detailed technical documentation, and automated DevOps pipelines.
 
-<div align="center">
-  <a href="https://github.com/pablobdss">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pablobdss&show_icons=true&theme=onedark"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobdss&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-  
-<div style="display: inline-block"><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align="center" alt="JavascriptIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></a> 
-    
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img align="center" alt="JavaIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg"></a> 
-  
-  <a href="https://www.python.org" target="_blank">
-    <img align="center" alt="PythonIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></a>
+---
 
-  <a href="https://go.dev" target="_blank">
-    <img align="center" alt="GoLangIconImg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg"></a>
-</div>
+## 🧰 Tech Stack
 
-  
-##
-  
- <div> 
-  <a href="https://www.linkedin.com/in/juan-pablo-5134a5189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:juanpablox2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- 
-</div>
+### 🖥️ Backend  
+- **Languages:** Go, TypeScript (Node.js), Java (Spring Boot)  
+- **APIs & Auth:** RESTful services, JWT  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+
+### 🌐 Frontend  
+- React, JavaScript / TypeScript  
+
+### ☁️ DevOps & Infra  
+- Docker Compose  
+- AWS EC2  
+- CI/CD basic (GitHub Actions)  
+- Git Flow · Postman for testing  
+
+---
+
+## 🎯 Currently Learning
+
+- gRPC microservices in Go  
+- Designing CI/CD pipelines with GitHub Actions
+- Message Brokers: RabbitMQ & Kafka fundamentals  
+- LeetCode: daily algorithm challenges to sharpen problem‑solving
+- OpenAI: Chatbot Integration
+
+---
+
+## 📫 Let’s Connect
+- 🔗 [Indeed]()
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-pablo-5134a5189/)  
+- 💻 [GitHub](https://github.com/pablobdss)  
+- ✉️ juanpablox2002@gmail.com  
